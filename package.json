@@ -3,6 +3,9 @@
     "displayName": "covcg-theme-dark",
     "description": "covcg's dark theme for vscode",
 		"publisher": "covcg",
+		"repository": {
+			"url": "https://github.com/covcg/vscode-dark-theme"
+		},
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.55.0"
