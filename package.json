@@ -2,6 +2,7 @@
     "name": "covcg-theme-dark",
     "displayName": "covcg-theme-dark",
     "description": "covcg's dark theme for vscode",
+		"publisher": "covcg",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.55.0"
