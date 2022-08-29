@@ -1,10 +1,10 @@
 {
     "name": "covcg-theme-dark",
-    "displayName": "covcg-theme-dark",
+    "displayName": "Covcg Theme",
     "description": "covcg's dark theme for vscode",
     "repository": "https://github.com/covcg/vscode-dark-theme",
     "publisher": "covcg",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -19,7 +19,7 @@
                 "path": "./themes/covcg-dark-theme-color-theme.json"
             },
             {
-                "label": "Covcg Dark Theme2",
+                "label": "Covcg Dark Theme 2",
                 "uiTheme": "vs-dark",
                 "path": "./themes/covcg-dark-theme-2-color-theme.json"
             }
